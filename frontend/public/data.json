@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone_number": "+1234567890",
+    "city": "New York",
+    "message": "Looking forward to the meeting next week."
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phone_number": "+1987654321",
+    "city": "Los Angeles",
+    "message": "Can we reschedule the call to next Friday?"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "phone_number": "+1098765432",
+    "city": "Chicago",
+    "message": "Thank you for the opportunity, I'll send the documents soon."
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "phone_number": "+1123456789",
+    "city": "Houston",
+    "message": "Please find the attached report for review."
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "phone_number": "+1145678901",
+    "city": "Miami",
+    "message": "I would like to inquire about the project timeline."
+  }
+]
